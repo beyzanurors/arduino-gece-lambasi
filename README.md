@@ -24,3 +24,7 @@ Projede kullanılan C++ kaynak kodunu `gece_lambasi.ino` dosyasında bulabilirsi
 1. Kodu Arduino IDE programına kopyalayın.
 2. Arduino kartınızı bilgisayara bağlayın.
 3. Kodu karta yükleyin ve potansiyometreyi çevirerek LED'lerin tepkisini gözlemleyin!
+
+## 📷 Devre Şeması
+
+![Devre Bağlantı Şeması](Ayarlanabilir%20gece%20lambasi.png)
