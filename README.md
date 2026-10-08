@@ -27,4 +27,4 @@ Projede kullanılan C++ kaynak kodunu `gece_lambasi.ino` dosyasında bulabilirsi
 
 ## 📷 Devre Şeması
 
-![Devre Bağlantı Şeması](Ayarlanabilir%20gece%20lambasi.png)
+![Devre Bağlantı Şeması]([Ayarlanabilir%20gece%20lambasi.png](https://github.com/beyzanurors/arduino-gece-lambasi/blob/main/Ayarlanabilir%20gece%20lambas%C4%B1.png))
